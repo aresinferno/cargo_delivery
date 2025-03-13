@@ -1,0 +1,7 @@
+django
+djangorestframework
+drf-yasg
+geopy
+django-filter==24.3
+celery
+
